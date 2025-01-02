@@ -11,5 +11,6 @@
     <file url="file://$PROJECT_DIR$/ms-inventory/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-order/src/main/resources/application.yaml" charset="UTF-8" />
   </component>
 </project>
